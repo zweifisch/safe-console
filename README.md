@@ -6,5 +6,5 @@
 to enable logging in dev enviroment:
 
 ```javascript
-localStorage.debug= 'on'
+localStorage.debug = 'on'
 ```

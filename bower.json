@@ -1,0 +1,14 @@
+{
+  "name": "safe-console",
+  "version": "0.0.1",
+  "homepage": "https://github.com/zweifisch/safe-console",
+  "authors": [
+    "Feng Zhou <zf.pascal@gmail.com>"
+  ],
+  "description": "safe console for browser",
+  "main": "console.js",
+  "keywords": [
+    "console"
+  ],
+  "license": "MIT"
+}
